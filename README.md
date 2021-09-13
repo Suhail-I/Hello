@@ -1,2 +1,2 @@
 # Hello
-Hello repo
+Hello repo to practice Github commands
